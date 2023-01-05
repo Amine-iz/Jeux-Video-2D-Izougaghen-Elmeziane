@@ -1,0 +1,10 @@
+
+
+#ifndef __DEFINITIONS_H__
+#define __DEFINITIONS_H__
+
+
+#define DISPLAY_TIME_HELLOWORLD_SCENE 2
+#define TRANSITION_TIME 1
+
+#endif // __DEFINITIONS_H__
